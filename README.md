@@ -8,3 +8,5 @@ Raw file: DataAnalyst.xlsx ([Kaggle](https://www.kaggle.com/datasets/andrewmvd/d
 4. Modify the "Size" column to categorize "Employees" into "Small (1-200)," "Medium (201-1000)," and "Large Company (1000+)"
 
 All processes are carried out in Power BI.
+
+![Image](https://github.com/user-attachments/assets/be5b055c-4a4a-4aaf-89ec-445865fac610)
